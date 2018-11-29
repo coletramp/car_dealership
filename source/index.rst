@@ -10,4 +10,20 @@ Welcome to RCC Car Dealership
    :maxdepth: 2
    :caption: Contents:
 
-   mission/index
+   mission_statement/mission_statement
+   detailing/detailing
+   location_hours/location_hours
+   new_cars/new_cars
+   used_cars/used_cars
+   new_mc/new_mc
+   used_mc/used_mc
+   paintshop/paintshop
+   performance_parts/performance_parts
+   repair_shop/repair_shop
+   rims/rims
+   speakers/speakers
+   subwoofers/subwoofers
+   test_driving/test_driving
+   tires/tires
+   
+   
