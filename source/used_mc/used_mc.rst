@@ -19,7 +19,7 @@ beast that can reach speed of over 225 mph.
 The third bike we have is a 2010 Suzuki Hayabusa. This bike has a price tag of 
 $7,000 but has the most power for the price. It has a 1,340cc 4-cylinder engine 
 pushing out 197 horsepower and 154 foot pounds of torque. Even though its only 
-7,000 it can still hit speeds of over 190 mph.
+$7,000 it can still hit speeds of over 190 mph.
 
 The fourth bike we have is a 2017 BMW S1000RR. This bike has a sticker price of 
 $15,000. This bike is a 999cc inline 4-cylinder with a 6-speed transmission. This
