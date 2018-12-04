@@ -1,5 +1,5 @@
-*Rims*
-======
+Rims
+====
 
 We carry 3 different brands of car rims, but we do not carry any motorcycle rims.
 The reason we do not carry motorcycle rims is because we do not have as many

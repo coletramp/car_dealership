@@ -1,5 +1,5 @@
-*Tires*
-=======
+Tires
+=====
 
 We highly recommend Bridgestone tires for both our cars and motorcycles. We carry 
 a small, but elite number of tires at our dealership. For our cars we tend to carry 

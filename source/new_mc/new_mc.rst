@@ -1,5 +1,5 @@
-**New Yamaha Road Motorcycles** 
-===============================
+New Yamaha Road Motorcycles
+===========================
 
 Here at our dealership we also sell top of the line Yamaha motorcycles. With that
 being said they will be split into two categories and within those three categories
