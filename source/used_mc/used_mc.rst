@@ -11,10 +11,6 @@ the volume of used motorcycles. We tend to put up only the *high* end used bikes
     :figclass: align-center
     
     Image from Motorcycle News.
-    
-    .. code-block:: python
-    
-       import image
 
 * The first used bike on our list is a 2008 Ducati DESMOSEDICI RR. This super 
   bike has a price of *$85,000*. There were only 1500 of these Ducati's made. 
