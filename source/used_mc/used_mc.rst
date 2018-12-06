@@ -4,11 +4,18 @@ Used Motorcycles
 Throughout our used **motorcycle** collection we only have some up online due to
 the volume of used motorcycles. We tend to put up only the *high* end used bikes.
 
-.. image:: ducati.jpg
+.. figure:: ducati.jpg
     :width: 400px
     :align: center
     :height: 400px
     :alt: alternate text
+    :figclass: align-center
+    
+    Motorcycle News
+    
+    .. code-block:: python
+    
+       import image
 
 * The first used bike on our list is a 2008 Ducati DESMOSEDICI RR. This super 
   bike has a price of *$85,000*. There were only 1500 of these Ducati's made. 
@@ -21,6 +28,13 @@ the volume of used motorcycles. We tend to put up only the *high* end used bikes
     :align: center
     :height: 400px
     :alt: alternate text
+    :figclass: align-center
+    
+    GottoCycle.com
+    
+    .. code-block:: python
+    
+       import image
     
 * The second use bike we have on this list is a 2017 Kawasaki Ninja H2R. This 
   super bike has a price tag of *$50,000*. This bike is ranked in the top 5 of 
@@ -33,6 +47,13 @@ the volume of used motorcycles. We tend to put up only the *high* end used bikes
     :align: center
     :height: 400px
     :alt: alternate text
+    :figclass: align-center
+    
+    Wiki Hayabusa
+    
+    .. code-block:: python
+    
+       import image
 
 * The third bike we have is a 2010 Suzuki Hayabusa. This bike has a price tag of 
   *$7,000* but has the most power for the price. It has a 1,340cc 4-cylinder engine 
@@ -44,6 +65,13 @@ the volume of used motorcycles. We tend to put up only the *high* end used bikes
     :align: center
     :height: 400px
     :alt: alternate text
+    :figclass: align-center
+    
+    TopSpeed.com
+    
+    .. code-block:: python
+    
+       import image
 
 * The fourth bike we have is a 2017 BMW S1000RR. This bike has a sticker price of 
   *$15,000*. This bike is a 999cc inline 4-cylinder with a 6-speed transmission. This
