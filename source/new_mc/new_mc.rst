@@ -52,5 +52,5 @@ of $7,599. It features a 689cc liquid-cooled 4-stroke with a 6-speed transmissio
 It has 74 horsepower and 50 foot pounds of torque. Even though this little guy only 
 has one cylinder he can still hit speeds of around 100 mph.
 
-You can also check these bikes out at `Yamaha's Web sight 
+You can also check these bikes out at `Yamaha's Web site
 <https://www.yamahamotorsports.com/motorcycle>`_.
