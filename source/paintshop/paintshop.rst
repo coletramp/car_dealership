@@ -9,3 +9,8 @@ comes to your cars paint.  This can be just a solid color if you do not like
 your current color.  This could be Pokka dots, pin stripes, flames, 
 multi-colored, or any other color combination you could think of.  If you can 
 design it, our shop can paint it.  
+
+* Our specialized Designs:
+   * Pokka Dots
+   * Stripes
+   * Super Fly Flames
