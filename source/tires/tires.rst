@@ -24,7 +24,7 @@ SERENITY PLUS  Battlax RS10
 RE980AS        Battlax BT45
 EP422 PLUS     Battlax T31
 M700 HD        Battlax BT-023
-=============  ================
+=============  ====================
 
 Car tires have a minimum warranty of 20,000 miles and motorcycle tires come with 
 a minimum warranty of 1,000 miles. We stand behind our products because we believe
