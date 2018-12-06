@@ -17,9 +17,9 @@ makes a tremendous difference.
 The tires below are the best tires you can get and we highly encourage you to 
 get due to safety reasons.
 
-=============  ================
-Car Tires      Motorcycle Tires
-=============  ================
+=============  ====================
+**Car Tires**  **Motorcycle Tires**
+=============  ====================
 SERENITY PLUS  Battlax RS10
 RE980AS        Battlax BT45
 EP422 PLUS     Battlax T31
