@@ -24,3 +24,11 @@ This allows for complete change in sound when it comes to quality and loudness.
 It does require some additional changes to the car.  It requires an amplifier 
 that will power the speakers.  This can be self-installed or we as a shop will 
 install it for a cheaper price if you buy the entire system from us.
+
+No matter what you buy from us we can guarantee:
+
+   1. Lowest Price
+   2. Price Match with ANY competitor
+   3. Perfect Quality of speakers and installation
+   4. Our 3-Year Warranty when we install it ourself
+   5. A 5-Star experience and if not, a money-back guarantee

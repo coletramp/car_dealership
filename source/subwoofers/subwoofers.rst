@@ -34,3 +34,11 @@ One difficulty when it comes to Sub woofers is the wiring and powering of the
 speakers.  Most cars do not have the power to run the speakers by itself.  
 Depending on the size of the speakers being installed new alternator or more car
 batteries need to be installed to power the speakers adequately.  
+
+Just like our speaker installations we can guarantee these things on Sub woofers:
+
+   1. Lowest Price
+   2. Price Match with ANY competitor
+   3. Perfect Quality of speakers and installation
+   4. Our 3-Year Warranty when we install it ourself
+   5. A 5-Star experience and if not, a money-back guarantee
