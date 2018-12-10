@@ -22,5 +22,9 @@ Welcome to RCC Car Dealership
    subwoofers/subwoofers
    test_driving/test_driving
    tires/tires
+   engine_work/engine_work
+   tint_work/tint_work
+   detailing_work/detailing_work
+   battery_work/battery_work
    
    
