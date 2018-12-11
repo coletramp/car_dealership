@@ -2,7 +2,6 @@ Locations & Hours
 =================
 
 LOCATIONS
-=========
 
 MV Car Dealership is a rapidly growing franchise that
 provides a wide variety of services for cars and motorcycles.
@@ -25,7 +24,7 @@ We take pride in getting to know our customers to potentially achieve
 the best possible outcome.
 
 HOURS
-=====
+
 Below are the locations hours. Note, we are closed for main 
 Holidays (such as Christmas, Easter, Thanksgiving, etc...) so 
 be sure to call or check out our updated hours, here on our  
