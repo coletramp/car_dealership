@@ -24,4 +24,4 @@ free car wash with the assessment. We care about our customers cars and always w
 them to the standard of excellence. Here are some links to local junkyards if prices 
 are too expensive for us. We can install those for you as well for a price of $800.
 
-Here is a good place to check for cheap parts : `junkyards <http://car-part.com.com/>`_.
+Here is a good place to check for cheap parts : `junkyards <http://car-part.com/>`_.
