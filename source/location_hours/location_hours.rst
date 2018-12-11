@@ -5,19 +5,12 @@ LOCATIONS
 =========
 
 MV Car Dealership is a rapidly growing franchise that
-
 provides a wide variety of services for cars and motorcycles.
-
 Whether it is selling, repairing, or enhancing your vehicle, 
-
 all MV locations will fulfill your needs. MV dealerships are
-
 currently located in Iowa but in the process of expanding 
-
 throughout the whole midwest. Below are the available open 
-
 stores offered to our customers. 
-
 ===================================  ==============
 **Addresses**                        **Owners**
 ===================================  ==============
@@ -27,21 +20,15 @@ stores offered to our customers.
 ===================================  ==============
 
 All locations guarantee quality service to ensure a productive 
-
 experience and a lifetime promise to give assistance to all customers.
-
 We take pride in getting to know our customers to potentially achieve 
-
 the best possible outcome.
 
 HOURS
 =====
 Below are the locations hours. Note, we are closed for main 
-
 Holidays (such as Christmas, Easter, Thanksgiving, etc...) so 
-
 be sure to call or check out our updated hours, here on our  
-
 website, before stopping by.
 
 ==============  =========
