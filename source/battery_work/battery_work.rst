@@ -1,6 +1,8 @@
 Battery Services
 ================
 
+.. image:: battery.jpg
+
 As you may know from our mission statement we only provide the best
 products and services to our customers. Our battery service is only 
 one of many things we provide. With low costs and very efficient 

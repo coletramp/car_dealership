@@ -1,8 +1,6 @@
 Detailing Work
 ==============
 
-.. image:: battery.jpg
-    :width: 50%
 
 Here at the dealership we also provide detailing jobs for your 
 car. We know things can get hectic and you won't be able to do 
