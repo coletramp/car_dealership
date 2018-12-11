@@ -17,7 +17,7 @@ engine replacement.
 * **New Engine Replacement - $1500 - 2500**
 * **Labor Cost - $35-50 an hour**
 
-We do not give packages with our engine replacement because we need to assess 
+We *do not* give packages with our engine replacement because we need to assess 
 the condition of your engine before we come up with a price. The good thing with 
 that is that here at RCC dealership is that we give free assessments and even a 
 free car wash with the assessment. We care about our customers cars and always want 
